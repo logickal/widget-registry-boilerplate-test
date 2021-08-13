@@ -95,3 +95,4 @@ http://js-widgets.github.io/widget-registry-boilerplate/widget-registry/sandbox/
 3. Finally, add a new `<script>` tag on your HTML to load the previous URL.
 
 You can see this in action, and the [html markup](https://github.com/js-widgets/example-widget/blob/master/public/index.html), in the [demo page](https://js-widgets.github.io/example-widget/index.html) of the example widget.
+
