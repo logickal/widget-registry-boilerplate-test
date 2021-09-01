@@ -4,7 +4,7 @@
 
 This project generates a static site with a catalog of all your widgets. This includes the ability
 to search and navigate widgets, as well as document your widgets in a beautiful website. Try out the
-examples.
+examples. (TODO: These links are not yet working on the forked Logickal version).
 
 - [![](https://img.shields.io/badge/sandbox-catalog-success?style=flat-square&logo=html5)](https://js-widgets.github.io/widget-registry-boilerplate/catalog/sandbox)
 - [![](https://img.shields.io/badge/production-catalog-success?style=flat-square&logo=html5)](https://js-widgets.github.io/widget-registry-boilerplate/catalog/production)
@@ -12,8 +12,8 @@ examples.
 Below you will find the URL for the registry containing the JSON feed with the widget information.
 This is necessary when you are integrating the widgets with your CMS (like Drupal).
 
-- [![](https://img.shields.io/badge/sandbox-registry-success?style=flat-square&logo=json)](https://js-widgets.github.io/widget-registry-boilerplate/widget-registry/sandbox/registry.json)
-- [![](https://img.shields.io/badge/production-registry-success?style=flat-square&logo=json)](https://js-widgets.github.io/widget-registry-boilerplate/widget-registry/production/registry.json)
+- [![](https://img.shields.io/badge/sandbox-registry-success?style=flat-square&logo=json)](https://logickal.github.io/widget-registry-boilerplate-test/widget-registry/sandbox/registry.json)
+- [![](https://img.shields.io/badge/production-registry-success?style=flat-square&logo=json)](https://logickal.github.io/widget-registry-boilerplate-test/widget-registry/production/registry.json)
 
 ## Getting started
 
@@ -95,4 +95,3 @@ http://js-widgets.github.io/widget-registry-boilerplate/widget-registry/sandbox/
 3. Finally, add a new `<script>` tag on your HTML to load the previous URL.
 
 You can see this in action, and the [html markup](https://github.com/js-widgets/example-widget/blob/master/public/index.html), in the [demo page](https://js-widgets.github.io/example-widget/index.html) of the example widget.
-
